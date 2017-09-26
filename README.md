@@ -1,5 +1,5 @@
 # Computer Science:An Overview (12th edition) 共筆協作
-透過習題協作的方式，共同學習計算機概論。
+透過各種協作的方式，共同學習計算機概論。
 
 ## 書籍資訊
 - Authors: Glenn Brookshear, Dennis Brylow
