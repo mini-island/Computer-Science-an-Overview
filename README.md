@@ -1,6 +1,7 @@
 # Computer Science:An Overview (12th edition) 共筆協作
 
 [![Join the chat at https://gitter.im/mini-island/Computer-Science-an-Overview](https://badges.gitter.im/mini-island/Computer-Science-an-Overview.svg)](https://gitter.im/mini-island/Computer-Science-an-Overview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 透過各種協作的方式，共同學習計算機概論。
 
 ## 書籍資訊
