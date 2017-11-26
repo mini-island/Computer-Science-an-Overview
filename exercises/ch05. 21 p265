@@ -1,1 +1,10 @@
 
+/This is a C++ liked psuedocode/
+str_a = A ;
+str_b = B ;
+if(str_a==str_b)
+  print('Same');
+ else
+    print('not');
+    system('PAUSE');
+    return 0;
